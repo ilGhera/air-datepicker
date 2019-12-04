@@ -30,7 +30,7 @@
 }
 
 .datepicker--cell.-current- {
-    color: #4EB5E6
+    color: #4eb5e6
 }
 
 .datepicker--cell.-current-.-focus- {
@@ -38,7 +38,7 @@
 }
 
 .datepicker--cell.-current-.-in-range- {
-    color: #4EB5E6
+    color: #4eb5e6
 }
 
 .datepicker--cell.-in-range- {
@@ -83,7 +83,7 @@
 .datepicker--cell.-selected-,
 .datepicker--cell.-selected-.-current- {
     color: #fff;
-    background: #FF9A19
+    background: #ff9a19
 }
 
 .datepicker--cell.-range-from-.-range-to- {
@@ -95,7 +95,7 @@
 }
 
 .datepicker--cell.-selected-.-focus- {
-    background: #45bced
+    background: #ff9a19
 }
 
 .datepicker--cell:empty {
@@ -113,7 +113,7 @@
 }
 
 .datepicker--day-name {
-    color: #FF9A19;
+    color: #ff9a19;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -400,7 +400,7 @@
 }
 
 .datepicker--button {
-    color: #4EB5E6;
+    color: #4eb5e6;
     cursor: pointer;
     border-radius: 4px;
     -webkit-flex: 1;
